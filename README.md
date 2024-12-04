@@ -51,7 +51,7 @@ Key visualizations included in this Power BI report are:
 
 Based on the analysis, several insights were derived:
 
-### High-Spending Extroverts
+#### High-Spending Extroverts
 Tend to spend more on premium products.
 Effective strategies: social and experiential marketing.
 
