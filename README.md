@@ -52,11 +52,27 @@ Key visualizations included in this Power BI report are:
 
 Based on the analysis, several insights were derived:
 
-- [High-Spending Extroverts]
-- [Budget-Conscious Introverts]
-- [Impulsive Buyers]
+# High-Spending Extroverts
+Tend to spend more on premium products.
+Effective strategies: social and experiential marketing.
 
-These insights can help in tailoring marketing campaigns, improving customer service, and developing new products that align with customer preferences.
+# Budget-Conscious Introverts
+Very price-sensitive.
+Effective strategies: personalized discounts and loyalty programs.
+
+# Impulsive Buyers
+Make spontaneous purchases.
+Effective strategies: flash sales and limited-time offers.
+Analytical Shoppers
+
+# Demographic Insights
+Younger customers (18-25) are often high-spending extroverts.
+Older customers (45+) are usually budget-conscious introverts.
+Female customers tend to be more agreeable and loyal.
+
+# Purchase Patterns
+High openness to experience leads to trying new products.
+High neuroticism leads to preference for familiar brands.
 
 ## Conclusion
 
