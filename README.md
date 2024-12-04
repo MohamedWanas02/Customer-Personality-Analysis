@@ -15,8 +15,7 @@ The Customer Personality Analysis project aims to understand customer segments b
 - [Conclusion](#conclusion)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [Contact](#contact)
-
+- 
 ## Introduction
 
 Understanding customer personality traits can provide deep insights into their behavior and preferences. This project utilizes Power BI to visualize and analyze customer data, focusing on key personality indicators.
