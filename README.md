@@ -55,21 +55,21 @@ Based on the analysis, several insights were derived:
 Tend to spend more on premium products.
 Effective strategies: social and experiential marketing.
 
-### Budget-Conscious Introverts
+#### Budget-Conscious Introverts
 Very price-sensitive.
 Effective strategies: personalized discounts and loyalty programs.
 
-### Impulsive Buyers
+#### Impulsive Buyers
 Make spontaneous purchases.
 Effective strategies: flash sales and limited-time offers.
 Analytical Shoppers
 
-### Demographic Insights
+#### Demographic Insights
 Younger customers (18-25) are often high-spending extroverts.
 Older customers (45+) are usually budget-conscious introverts.
 Female customers tend to be more agreeable and loyal.
 
-### Purchase Patterns
+#### Purchase Patterns
 High openness to experience leads to trying new products.
 High neuroticism leads to preference for familiar brands.
 
