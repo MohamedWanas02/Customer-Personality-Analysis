@@ -1,5 +1,7 @@
 # Customer Personality Analysis
 
+![Screenshot (302)](https://github.com/user-attachments/assets/83b9ab8c-91cb-4e95-be69-ec325227e9e7)
+
 ## Project Overview
 
 The Customer Personality Analysis project aims to understand customer segments by analyzing their personality traits. This analysis helps businesses tailor their marketing strategies, product offerings, and customer service to meet the needs of different customer groups more effectively.
